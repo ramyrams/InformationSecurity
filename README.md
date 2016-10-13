@@ -10,7 +10,7 @@ https://www.sans.org/reading-room/whitepapers/hsoffice/designing-implementing-ef
 
 https://www.tutorialspoint.com/security_testing
 
-
+https://transition.fcc.gov/cyber/cyberplanner.pdf
 
 * [OWASPv4_Checklist.xlsx](https://github.com/tanprathan/OWASP-Testing-Checklist)
 * [OWASPTestingChecklist_v_1.0.xls](https://github.com/rajivvishwa/owasp-testing-checklist/blob/master/OWASPTestingChecklist_v_1.0.xls)
