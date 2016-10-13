@@ -17,49 +17,29 @@ Host-based security, domain controllers / auth servers, mandatory access control
 
 
 * Threats
-* Attacks
-* Vulnerabilities
+* [Attacks](https://www.owasp.org/index.php/Category:Attack)
+* [Vulnerabilities](https://www.owasp.org/index.php/Category:Vulnerability)
 * Countermeasures
 
 
 # Cyber attacks or Threats:
-Backdoors – Backdoor is a kind of cyber threat in which the attacker uses a back door to install a keylogging software, thereby allowing an illegal access to your system. This threat can turn out to be possibly severe as it allows for modification of the files, stealing information, installing undesired software or even taking control of the entire computer.
+**Backdoors** – Backdoor is a kind of cyber threat in which the attacker uses a back door to install a keylogging software, thereby allowing an illegal access to your system. This threat can turn out to be possibly severe as it allows for modification of the files, stealing information, installing undesired software or even taking control of the entire computer.
 
-Spoofing – Spoofing is another type of cyber attack where an individual or a program represent another by creating fake data to gain illegal access to a system. Such threats are commonly found in emails where the sender’s address is spoofed.
+**Spoofing** – Spoofing is another type of cyber attack where an individual or a program represent another by creating fake data to gain illegal access to a system. Such threats are commonly found in emails where the sender’s address is spoofed.
 
-Bots – Bots is a type of software application that runs mechanized tasks which are simple and constant in nature. Bots may or may not be malicious, but they are usually found to initiate a DoS attack or a click scam while using the internet.
+**Bots** – Bots is a type of software application that runs mechanized tasks which are simple and constant in nature. Bots may or may not be malicious, but they are usually found to initiate a DoS attack or a click scam while using the internet.
 
-Tampering – Tampering is a web-based attack where certain parameters in the URL are changed without the consumer’s knowledge; and when the customer keys in that URL, it looks and appears the same. Tampering is done by hackers and criminals to steal the identity and obtain illegal access to information.
+**Tampering** – Tampering is a web-based attack where certain parameters in the URL are changed without the consumer’s knowledge; and when the customer keys in that URL, it looks and appears the same. Tampering is done by hackers and criminals to steal the identity and obtain illegal access to information.
 
-
-
-https://orafw.com/wp-content/uploads/2016/04/article-1341142-0C926C10000005DC-822_634x286.jpg
-
-
-https://www.owasp.org/index.php/OWASP_Mobile_Security_Project
-
-http://www.industrial-ip.org/~/media/Images/Padilla%20Images/Security%20article%201.ashx
-
-http://www.industrial-ip.org/~/media/Images/Padilla%20Images/Security%20article%202.ashx
-
-
+OWASP
 https://drive.google.com/file/d/0BxOPagp1jPHWYmg3Y3BfLVhMcmc/view
-
-
-https://www.mastercard.us/content/dam/mccom/en-us/icons/infographic-pci-compliance.png
-
-
+![1](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project
 
 https://f5.com/about-us/blog/articles/web-fraud-solutions-for-the-ever-growing-malware-threat-19857
 
 
-
-
-https://danielmiessler.com/projects/webappsec_testing_resources/#wahhcl
-
-
-Complete 
-https://danielmiessler.com/projects/webappsec_testing_resources/#wahhcl
+# 
+* [Web Application Security Testing Resources](https://danielmiessler.com/projects/webappsec_testing_resources/#wahhcl)
 
 http://www.precisetestingsolution.com/wp-content/uploads/Precise-Testing-Solution-Security-Testing-Checklist.pdf
 
@@ -73,7 +53,6 @@ https://www.cybrary.it/0p3n/penetration-testing-checklist/
 http://apps.testinsane.com/mindmaps/Uploads/Web%20Security%20Testing%20Part%20I.png
 https://www.owasp.org/index.php/OWASP_Testing_Project
 http://securitywing.com/63-web-application-security-checklist-auditors-developers/
-1
 
 
 
