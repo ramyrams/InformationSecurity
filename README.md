@@ -4,6 +4,8 @@ Getting Started with Security Testing
 https://www.soapui.org/security-testing/getting-started.html
 
 
+https://www.sans.org/reading-room/whitepapers/hsoffice/designing-implementing-effective-information-security-program-protecting-data-assets-of-1398
+
 
 https://www.tutorialspoint.com/security_testing
 
