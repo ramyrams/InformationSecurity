@@ -1,4 +1,20 @@
-# InformationSecurity
+# Information Security 
+
+
+# Information Security
+Umbrella covering everything to do with information security. InfoSec specialists cover a wide range of topics and are skilled generalists. In a big company setup, they are your CISOs and managers. In a smaller company, they are your practitioners.
+
+# Application Security
+Related more to software design and programming. AppSec specialists are familiar with programming and tend to focus on secure application design.
+
+# Network Security
+Firewalls, IDS, VPNs; practitioners understand lots of application-specific protocols. Anything that flows through a router is in their world.
+
+# IT Security
+Host-based security, domain controllers / auth servers, mandatory access controls systems. ITSec is focused inside of the system.
+
+
+
 
 https://danielmiessler.com/projects/webappsec_testing_resources/#wahhcl
 
