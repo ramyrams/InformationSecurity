@@ -33,6 +33,13 @@ Host-based security, domain controllers / auth servers, mandatory access control
 * [Vulnerabilities](https://www.owasp.org/index.php/Category:Vulnerability)
 * Countermeasures
 
+# [STRIDE Explained](http://shapingsoftware.com/2008/03/30/stride-explained/)
+Spoofing user identity.
+Tampering with data.
+Repudiation.
+Information disclosure.
+Denial of service.
+Elevation of privilege.
 
 
 
@@ -57,8 +64,11 @@ https://f5.com/about-us/blog/articles/web-fraud-solutions-for-the-ever-growing-m
 # 
 * [Web Application Security Testing Resources](https://danielmiessler.com/projects/webappsec_testing_resources/#wahhcl)
 
+http://shapingsoftware.com/2008/03/30/stride-explained/
+http://shapingsoftware.com/2008/04/13/secure-your-network-host-and-application/
+http://shapingsoftware.com/2008/04/07/security-principles/
 http://www.precisetestingsolution.com/wp-content/uploads/Precise-Testing-Solution-Security-Testing-Checklist.pdf
-
+http://shapingsoftware.com/2008/04/07/security-frame/
 http://tuppad.com/blog/wp-content/uploads/2012/03/WebApp_Sec_Testing_Checklist.pdf
 https://www.sans.org/reading-room/whitepapers/securecode/security-checklist-web-application-design-1389
 https://code.google.com/archive/p/owasp-testing-checklist/
@@ -81,7 +91,7 @@ https://www.tutorialspoint.com/security_testing
 * [IOS Application Security Testing Cheat Sheet](https://www.owasp.org/index.php/IOS_Application_Security_Testing_Cheat_Sheet)
 * [Software Security Testing](http://www.slideshare.net/srivinayak/software-security-testing-18056466)
 
-
+http://shapingsoftware.com/2008/03/30/threats-attacks-vulnerabilities-and-countermeasures/
 # Test Web Practice
 * [OWASP Mutillidae II](Web Pen-Test Practice Application)
 * [Read about OWASP Mutillidae II Web Pen-Test Training Environment](https://www.sans.org/reading-room/whitepapers/testing/introduction-owasp-mutillidae-ii-web-pen-test-training-environment-34380)
@@ -93,6 +103,7 @@ http://2we26u4fam7n16rz3a44uhbe1bq2.wpengine.netdna-cdn.com/wp-content/uploads/2
 https://media.licdn.com/mpr/mpr/p/5/005/051/39e/1cfaaa9.jpg
 https://media.licdn.com/mpr/mpr/p/5/005/051/39e/3747637.jpg
 http://www.taosecurity.com/images/vulnerability-threat_pairs.png
+http://player.slideplayer.com/22/6405319/data/images/img16.png
 http://image.slidesharecdn.com/owaspocsept17presentationvs10reduced-091030221445-phpapp01/95/security-compliance-web-application-risk-management-34-728.jpg?cb=1258273619
 http://2.bp.blogspot.com/-ZbvSKb6_n00/Upmte-znE9I/AAAAAAAAABc/kiZnBw4Oizw/s400/security.png
 
