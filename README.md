@@ -75,6 +75,7 @@ https://f5.com/about-us/blog/articles/web-fraud-solutions-for-the-ever-growing-m
 # 
 * [Web Application Security Testing Resources](https://danielmiessler.com/projects/webappsec_testing_resources/#wahhcl)
 
+http://www.cyberdatainc.com/cyber-security
 http://shapingsoftware.com/2008/03/30/stride-explained/
 http://shapingsoftware.com/2008/04/13/secure-your-network-host-and-application/
 http://shapingsoftware.com/2008/04/07/security-principles/
