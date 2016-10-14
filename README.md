@@ -140,6 +140,9 @@ http://www.guidanceshare.com/images/2/28/WebServerThreatsAndVulnerabilities.gif
 
 Thanks to J.D. Meier-He is Awesome
 
+
+http://www.praxiom.com/iso-27001-sample.pdf
+
 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/35290/common_cyber_attacks.png
 ![1](http://qamentor.com/wp-content/uploads/2014/05/security-testing-methodolgy-1_big.jpg)
 ![1](http://qamentor.com/wp-content/uploads/2014/05/security-testing-methodolgy-2_big.jpg)
