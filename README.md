@@ -3,14 +3,11 @@
 Cyber Security vs. Information Security
 Cyber security and information security aren’t different at all, but are related to each other in much the same way that the wider field of “science” is related to the practice of chemistry.
 
-
 Cyber security is a broad practice, demanding mastery of a number of unique skills in computational theory and practice from its most effective practitioners. Ensuring that servers, intranets, and channels built for data transfer remain protected and accessible to only those permitted, for example, falls under the realm of “information security”. While some cyber security professionals may specialize in this area, this is only one of the many dimensions of the field.
 
 Information security can be simply defined as “the protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability.” Any point of data storage and transfer is considered to be an “information system”, which means this practice can apply to a wide variety of different environments, including those outside cyberspace.
 
 Network security is another division within cyber security, focusing on data leaving or entering a device through an established network of computers and servers. Experts in network security monitor countless interactions between networked computers and other machines to make sure their connections are protected.
-
-
 
 # Information Security
 Umbrella covering everything to do with information security. InfoSec specialists cover a wide range of topics and are skilled generalists. In a big company setup, they are your CISOs and managers. In a smaller company, they are your practitioners.
@@ -37,6 +34,18 @@ Host-based security, domain controllers / auth servers, mandatory access control
 # Security Organization
 * SANS Institute
 * OWASP
+
+# Tools
+* **Threat Modelling** – MS TMT 2016
+* **Static Code Analysis** – PMD, CheckMarx, Coverity, Fortify, Findbugs, Checkstyle
+* **Vulnerability Scanner** – Arachni, Nikto, Nessus
+* **Packet Sniffing & Replay** – TCPDUMP, Nmap, Tshark, Wireshark
+* **Penetration Testing** – Metasploit, OpenVas, ZAP, Kali Linux
+* **REST API** – Postman, SOAPUI
+* **Web Application Security** – Burpsuite, SQLMap, SQLInjectMe, XSSME, TamperData, commix, Nmap, Zenmap, Hydra, Fiddler, Watobo, SSLScan
+* **Encryption & Cipher Test** – GnuGPG, Bitlocker, Openssl, AES Online, md5sum
+
+ 
 
 # Key Terms
 * Threats
