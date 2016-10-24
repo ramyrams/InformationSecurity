@@ -81,6 +81,19 @@ https://drive.google.com/file/d/0BxOPagp1jPHWYmg3Y3BfLVhMcmc/view
 https://f5.com/about-us/blog/articles/web-fraud-solutions-for-the-ever-growing-malware-threat-19857
 
 
+# Practice InfoSec Skills
+https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/
+https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/
+
+
+# Follow Leader
+https://www.checkmarx.com/2015/08/28/15-devops-and-security-experts-you-should-be-following-on-twitter/
+https://www.checkmarx.com/2015/05/21/2015052129-cyber-security-blogs-you-should-be-reading/
+
+# Seucity & DevOps
+https://www.checkmarx.com/2015/06/22/21-awesome-talks-and-resources-on-security-and-devops/
+
+
 # 
 * [Web Application Security Testing Resources](https://danielmiessler.com/projects/webappsec_testing_resources/#wahhcl)
 
