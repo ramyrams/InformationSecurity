@@ -7,3 +7,13 @@
 https://zeroturnaround.com/wp-content/uploads/2014/04/static-code-analysis-tool-usage-by-developers-graph.jpg
 http://m.eet.com/media/1043135/1106esdSchil01.gif
 https://www.grammatech.com/sites/default/files/static-analysis-representation.png
+
+
+
+http://m.eet.com/media/1043132/1106esdSchilT01.gif
+http://m.eet.com/media/1043133/1106esdSchilL01.gif
+http://m.eet.com/media/1043134/1106esdSchilL02.gif
+http://m.eet.com/media/1043135/1106esdSchil01.gif
+http://m.eet.com/media/1043136/1106esdSchil02.gif
+http://m.eet.com/media/1043137/1106esdSchil03.gif
+
