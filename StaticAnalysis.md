@@ -1,4 +1,4 @@
-
+* [Static Code Analysis List](http://projects.webappsec.org/w/page/61622133/Static%20Code%20Analysis%20List)
 
 * [Awesome static analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
 * [Source Code Security Analyzers](https://samate.nist.gov/index.php/Source_Code_Security_Analyzers.html)
