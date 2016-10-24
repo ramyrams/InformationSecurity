@@ -10,6 +10,7 @@ https://www.grammatech.com/sites/default/files/static-analysis-representation.pn
 
 
 
+https://www.owasp.org/images/8/87/Code_Review_-_SDLC1.jpg
 http://m.eet.com/media/1043132/1106esdSchilT01.gif
 http://m.eet.com/media/1043133/1106esdSchilL01.gif
 http://m.eet.com/media/1043134/1106esdSchilL02.gif
@@ -17,3 +18,8 @@ http://m.eet.com/media/1043135/1106esdSchil01.gif
 http://m.eet.com/media/1043136/1106esdSchil02.gif
 http://m.eet.com/media/1043137/1106esdSchil03.gif
 
+https://www.checkmarx.com/wp-content/uploads/2016/06/The-Evolution-ofSource-Code-Analysis.jpg
+http://hwang.cisdept.cpp.edu/swanew/images/static_analysis2.gif
+http://hwang.cisdept.cpp.edu/swanew/images/static_analysis1.gif
+https://www.softscheck.com/wp-content/uploads/2016/02/static-source-code-analysis.png
+http://docplayer.net/docs-images/40/10009273/images/page_2.jpg
