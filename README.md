@@ -186,10 +186,7 @@ https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image
 http://image.slidesharecdn.com/owaspocsept17presentationvs10reduced-091030221445-phpapp01/95/security-compliance-web-application-risk-management-34-728.jpg?cb=1258273619
 
 
-
-
-
-
+![1](https://www.cigital.com/wp-content/uploads/2015/09/Cigitals-Software-Security-Touchpoints.png)
 ![1](http://image.slidesharecdn.com/softwaresecuritytesting-130402094400-phpapp01/95/software-security-testing-4-638.jpg)
 ![1](http://image.slidesharecdn.com/softwaresecuritytesting-130402094400-phpapp01/95/software-security-testing-6-638.jpg)
 ![1](https://s-media-cache-ak0.pinimg.com/originals/df/03/39/df03397afae18eaa51bc188a362b57b0.jpg)
