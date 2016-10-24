@@ -10,6 +10,23 @@ https://www.grammatech.com/sites/default/files/static-analysis-representation.pn
 
 
 
+
+
+
+https://www.owasp.org/index.php/Input_Validation_Cheat_Sheet
+
+
+http://www.softscheck.com/wp-content/uploads/2015/11/static.png
+
+
+A Case Study in Improving Security through Static Code Analysis 	https://www.youtube.com/watch?v=xjVkY-8qEoU
+
+
+The Ultimate List of Open Source Static Code Analysis Security Tools
+https://www.checkmarx.com/2014/11/13/the-ultimate-list-of-open-source-static-code-analysis-security-tools/
+
+
+
 https://www.owasp.org/images/8/87/Code_Review_-_SDLC1.jpg
 http://m.eet.com/media/1043132/1106esdSchilT01.gif
 http://m.eet.com/media/1043133/1106esdSchilL01.gif
