@@ -97,6 +97,7 @@ https://www.checkmarx.com/2015/06/22/21-awesome-talks-and-resources-on-security-
 # 
 * [Web Application Security Testing Resources](https://danielmiessler.com/projects/webappsec_testing_resources/#wahhcl)
 
+http://www.hongkiat.com/blog/google-play-gooligan-malware/
 http://www.cyberdatainc.com/cyber-security
 http://shapingsoftware.com/2008/03/30/stride-explained/
 http://shapingsoftware.com/2008/04/13/secure-your-network-host-and-application/
