@@ -199,3 +199,10 @@ http://image.slidesharecdn.com/owaspocsept17presentationvs10reduced-091030221445
 ![1](http://www.industrial-ip.org/~/media/Images/Padilla%20Images/Security%20article%201.ashx)
 ![1](http://www.industrial-ip.org/~/media/Images/Padilla%20Images/Security%20article%202.ashx)
 ![1](https://www.mastercard.us/content/dam/mccom/en-us/icons/infographic-pci-compliance.png)
+
+![1](https://s-media-cache-ak0.pinimg.com/736x/06/13/f1/0613f1a0e1af6b5c4fe0ba1df097a5f3.jpg)
+![1](https://www.owasp.org/images/thumb/5/55/AppSec-Pipeline-Example.png/800px-AppSec-Pipeline-Example.png)
+![1](https://www.ibm.com/devops/method/images/experiences/development-pipeline-breakdown-diagram.png)
+![1](https://www.ibm.com/developerworks/community/blogs/invisiblethread/resource/BLOGS_UPLOADED_IMAGES/523blog.jpg)
+![1](https://www.qa.com/-/media/qa/blogs/devops-pipeline.png?la=en)
+![1](https://www.owasp.org/images/thumb/9/9a/AppSec_Pipeline_Rugged_DevOps.png/800px-AppSec_Pipeline_Rugged_DevOps.png)
