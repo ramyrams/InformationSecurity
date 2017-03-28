@@ -75,6 +75,7 @@ Elevation of privilege.
 
 http://shapingsoftware.com/2009/03/09/security-hot-spots/
 
+http://testingrants.blogspot.in/2017/03/some-security-podcasts-i-like.html
 
 OWASP
 https://drive.google.com/file/d/0BxOPagp1jPHWYmg3Y3BfLVhMcmc/view
