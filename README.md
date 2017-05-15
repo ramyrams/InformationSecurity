@@ -47,6 +47,14 @@ Host-based security, domain controllers / auth servers, mandatory access control
 * **Web Application Security** – Burpsuite, SQLMap, SQLInjectMe, XSSME, TamperData, commix, Nmap, Zenmap, Hydra, Fiddler, Watobo, SSLScan
 * **Encryption & Cipher Test** – GnuGPG, Bitlocker, Openssl, AES Online, md5sum
 
+
+# Software security testing cover the following areas
+* Penetration testing
+* Network and port scanning
+* Authentication and authorization exploits
+* Cross-site scripting exploits
+* Session hijacking
+* DNS poisoning
  
 
 # Key Terms
