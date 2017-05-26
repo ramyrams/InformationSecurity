@@ -81,6 +81,15 @@ Elevation of privilege.
 * Security code audit (use of static code analysis tools, manual review of major components of the system, recommendations on improvements, patches, security alerts)
 * Server configuration testing (search for errors in multithreaded environments that allow data to be shared or corrupted)
 
+10 Steps To Kickstart Your Web Application Security Career 
+https://dzone.com/articles/10-steps-to-kickstart-your-web-application-securit
+
+Detect & fix security vulnerabilities, problematic open source licenses.
+https://marketplace.visualstudio.com/items?itemName=whitesource.ws-bolt
+
+What Is Server-Side Request Forgery (SSRF)?
+https://dzone.com/articles/what-is-server-side-request-forgery-ssrf?
+
 http://shapingsoftware.com/2009/03/09/security-hot-spots/
 
 http://testingrants.blogspot.in/2017/03/some-security-podcasts-i-like.html
@@ -152,6 +161,7 @@ http://www.taosecurity.com/images/vulnerability-threat_pairs.png
 http://player.slideplayer.com/22/6405319/data/images/img16.png
 http://image.slidesharecdn.com/owaspocsept17presentationvs10reduced-091030221445-phpapp01/95/security-compliance-web-application-risk-management-34-728.jpg?cb=1258273619
 http://2.bp.blogspot.com/-ZbvSKb6_n00/Upmte-znE9I/AAAAAAAAABc/kiZnBw4Oizw/s400/security.png
+
 
 http://www.guidanceshare.com/images/7/7e/DatabaseServerThreatsAndVulnerabilities.gif
 ### Threats / Attacks
