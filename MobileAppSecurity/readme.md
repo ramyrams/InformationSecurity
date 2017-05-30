@@ -21,6 +21,20 @@
 * [Android Client-Side Attacks and Tests](https://appsec-labs.com/android-attacks-tests/)
 * [Mobile App Security Checklist](http://www.ministryoftesting.com/wp-content/uploads/2014/01/SmartBear-Mobile-Testing-Checklist-V2.pdf)
 
+OWASP Mobile Security Top 10 vulnerabilities :
+* [M1: Weak Server Side Controls](https://www.owasp.org/index.php/Mobile_Top_10_2014-M1)
+* [M2: Insecure Data Storage](https://www.owasp.org/index.php/Mobile_Top_10_2014-M2)
+* [M3: Insufficient Transport Layer Protection](https://www.owasp.org/index.php/Mobile_Top_10_2014-M3)
+* [M4: Unintended Data Leakage](https://www.owasp.org/index.php/Mobile_Top_10_2014-M4)
+* [M5: Poor Authorization and Authentication](https://www.owasp.org/index.php/Mobile_Top_10_2014-M5)
+* [M6: Broken Cryptography](https://www.owasp.org/index.php/Mobile_Top_10_2014-M6)
+* [M7: Client Side Injection](https://www.owasp.org/index.php/Mobile_Top_10_2014-M7)
+* [M8: Security Decisions Via Untrusted Inputs](https://www.owasp.org/index.php/Mobile_Top_10_2014-M8)
+* [M9: Improper Session Handling](https://www.owasp.org/index.php/Mobile_Top_10_2014-M9)
+* [M10: Lack of Binary Protections](https://www.owasp.org/index.php/Mobile_Top_10_2014-M10)
+
+![1](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAVRAAAAJGRmYWYzNjIwLTZkOWItNDc0MS04OWYxLTZkMDEwY2U3YzEwMQ.png)
+
 
 ![1](https://www.owasp.org/images/thumb/a/ac/2014-01-26_20-23-29.png/825px-2014-01-26_20-23-29.png)
 ![1](https://www.owasp.org/images/3/3a/IOS_Arsenal.png)
