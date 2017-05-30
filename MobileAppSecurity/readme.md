@@ -1,3 +1,58 @@
+Mobile App Security
+
+#
+* Is your application storing payment information or credit card details?
+* Does your application use secure network protocols?
+* Can they be switched to insecure ones?
+* Does the application ask for more permissions than it needs?
+* Does your application use certificates?
+* Does your application use a Device ID as an identifier?
+* Does your application require a user to be authenticated before they are allowed to access their data?
+* Is there a maximum number of login attempts before they are locked out?
+
+# Mobile Security Testing Guide
+* [Mobile Security Testing Guide -MSTG] (https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
+
+## Mobile App Security Requirements and Verification
+
+# CheckList
+* [OWASP Mobile App Security Checklist](https://github.com/OWASP/owasp-mstg/blob/master/Checklists/Mobile_App_Security_Checklist.xlsx)
+* [Mobile app security testing checklist](https://codifiedsecurity.com/2016/04/28/mobile-app-security-testing-checklist/)
+* [Android Client-Side Attacks and Tests](https://appsec-labs.com/android-attacks-tests/)
+* [Mobile App Security Checklist](http://www.ministryoftesting.com/wp-content/uploads/2014/01/SmartBear-Mobile-Testing-Checklist-V2.pdf)
+
+
+![1](https://www.owasp.org/images/thumb/a/ac/2014-01-26_20-23-29.png/825px-2014-01-26_20-23-29.png)
+![1](https://www.owasp.org/images/3/3a/IOS_Arsenal.png)
+![1](https://www.owasp.org/images/4/4c/Reverse_Engineering_Arsenals.png)
+
+## OWASP Mobile Security Project
+* [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project#tab=M-Tools)
+
+# OASAM
+* [OASAM](https://github.com/b66l/OASAM)-OASAM is the acronym of Open Android Security Assessment Methodology and its purpose is to become a reference framework on Android application vulnerability assessments.
+
+Mobile App Testing Checklist
+https://www.slideshare.net/manojmastiff/mobile-app-testing-23270329
+
+# MAM-Security-Checklist
+Checklist intended to be used as a baseline for assessing, designing, and testing the security of a MAM (Application Wrapping) solution
+https://github.com/GDSSecurity/MAM-Security-Checklist
+
+https://github.com/GDSSecurity/Whitepapers/blob/master/GDS%20Labs%20-%20Analysis%20of%20Mobile%20Application%20Management%20(MAM)%20Solutions.pdf?raw=true
+
+
+# The Process of Mobile Application Security Testing
+There are three basic steps suggested by experts while performing security testing for mobile apps:
+* Threat Modeling: 
+	This method is used for identifying threats in the app
+* Vulnerability Analysis: 
+	This method is used for identifying vulnerabilities in the application with the previously created test cases using Runtime analysis, Dynamic methods, and forensic methods.
+* Intelligence Gathering: 
+	This method is used for gathering as much information as possible about the application
+
+
+
 # Secure Coding Best Practices
 * User authentication
 * Authorizations
