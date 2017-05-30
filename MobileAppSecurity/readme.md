@@ -128,3 +128,18 @@ Software Testing Tools
 Vulnerability Assessment
 Vulnerability Assessment and Penetration Testing
 Vulnerability Scanner
+
+
+* [Needle](https://github.com/mwrlabs/needle) -  iOS Security Testing Framework 
+* [Drozer](http://mobiletools.mwrinfosecurity.com/) - The Android Security Assessment Framework 
+
+* [nathan](Android Emulator for mobile security testing)
+* [CSI (Continuous Security Integration) Framewor](https://github.com/ninp0/csi)
+
+* [MARA_Framework](https://github.com/xtiankisutsa/MARA_Framework) - MARA is a Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in testing mobile applications against the OWASP mobile security threats. 
+
+* [Damn Vulnerable iOS App (DVIA) ](https://github.com/prateek147/DVIA) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment.
+
+
+https://github.com/gadgetfox/MobileSecurity
+
