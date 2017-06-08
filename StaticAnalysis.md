@@ -1,5 +1,10 @@
 * [Static Code Analysis List](http://projects.webappsec.org/w/page/61622133/Static%20Code%20Analysis%20List)
 
+
+
+Technical Debt: Everything You Need to Know 
+https://dzone.com/articles/technological-debt-everything-you-need-to-know?
+
 * [Awesome static analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
 * [Source Code Security Analyzers](https://samate.nist.gov/index.php/Source_Code_Security_Analyzers.html)
 * [How do open source static analysis tools stack up against commercial tools?](https://codedx.com/how-do-open-source-static-analysis-tools-stack-up-against-commercial-tools/)
