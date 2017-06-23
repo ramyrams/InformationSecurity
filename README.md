@@ -113,7 +113,7 @@ https://www.checkmarx.com/2015/05/21/2015052129-cyber-security-blogs-you-should-
 # Seucity & DevOps
 https://www.checkmarx.com/2015/06/22/21-awesome-talks-and-resources-on-security-and-devops/
 
-
+http://www.veracode.com/sites/default/files/Resources/Whitepapers/ultimate-guide-to-getting-started-with-appsec-veracode.pdf
 # 
 * [Web Application Security Testing Resources](https://danielmiessler.com/projects/webappsec_testing_resources/#wahhcl)
 
