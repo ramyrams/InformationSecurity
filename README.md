@@ -20,6 +20,8 @@ https://www.checkmarx.com/2016/02/05/5-best-practices-perfect-secure-code-review
 
 https://www.slideshare.net/ajin25/g4h-webcast-automated
 
+Very good one with action items
+https://www.sans.org/reading-room/whitepapers/application/framework-secure-application-design-development-842
 
 # Information Security 
 
