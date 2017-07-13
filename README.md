@@ -1,5 +1,26 @@
 OWASP AppSec Pipeline
 
+Security testing tools
+There is eight security tool categories:
+source code analyzers,
+web application (black-box) scanners,
+database scanners,
+binary analysis tools,
+runtime analysis tools,
+configuration management tools,
+HTTP proxies,
+miscellaneous tools.
+
+http://slideplayer.com/slide/6869389/
+
+https://www.checkmarx.com/wp-content/uploads/2016/02/Requirement.png
+
+
+https://www.checkmarx.com/2016/02/05/5-best-practices-perfect-secure-code-review/
+
+https://www.slideshare.net/ajin25/g4h-webcast-automated
+
+
 # Information Security 
 
 Cyber Security vs. Information Security
