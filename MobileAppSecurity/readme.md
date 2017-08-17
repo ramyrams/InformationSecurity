@@ -11,7 +11,7 @@
 * Is there a maximum number of login attempts before they are locked out?
 
 # Mobile Security Testing Guide
-* [Mobile Security Testing Guide -MSTG] (https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
+* [Mobile Security Testing Guide-MSTG](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
 
 ## Mobile App Security Requirements and Verification
 
