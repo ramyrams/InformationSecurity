@@ -15,7 +15,7 @@ http://slideplayer.com/slide/6869389/
 
 https://www.checkmarx.com/wp-content/uploads/2016/02/Requirement.png
 
-
+https://www.owasp.org/images/5/58/OWASP_ASVS_Version_2.pdf
 https://www.checkmarx.com/2016/02/05/5-best-practices-perfect-secure-code-review/
 http://slideplayer.com/slide/6869389/
 https://www.slideshare.net/ajin25/g4h-webcast-automated
