@@ -1,4 +1,4 @@
-* [Training with Vulnerable Web Applications](https://dunnesec.com/category/training/vulnerable-web-applications/)
+* [Training with Vulnerable Web Applications](https://dunnesec.com/category/training/vulnerable-web-applications/) - List of Vulnerable Applications that are available to the public for testing and training purposes.
 
 Learn the following concepts in https://dunnesec.com/category/attacks-defence/http-header-injection/
 * Apache MultiViews
