@@ -68,7 +68,7 @@ Goal is to make sure that the sytem/application does not have any loopholes syte
 * Security Review
   * To check that securitystandards have beenimplemented appropriatelythrough gap analysis andcode/design reviews.
 
-
+https://pentesterlab.com/exercises/
 
 
 #
