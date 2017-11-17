@@ -28,7 +28,7 @@ Workflow
 
 # Video Tutorial
 https://owasp-academy.teachable.com/courses/
-
+https://github.com/zaproxy/zaproxy/wiki/Videos
 
 OWASP Top 10 Vulnerabilities
 * Injection
