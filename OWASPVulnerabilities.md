@@ -26,6 +26,9 @@ Workflow
 • Reporting
 
 
+# Video Tutorial
+https://owasp-academy.teachable.com
+
 
 OWASP Top 10 Vulnerabilities
 * Injection
