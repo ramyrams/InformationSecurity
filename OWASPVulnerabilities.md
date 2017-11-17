@@ -27,7 +27,7 @@ Workflow
 
 
 # Video Tutorial
-https://owasp-academy.teachable.com
+https://owasp-academy.teachable.com/courses/
 
 
 OWASP Top 10 Vulnerabilities
